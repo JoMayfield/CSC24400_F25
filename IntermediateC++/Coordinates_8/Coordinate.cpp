@@ -66,7 +66,7 @@ void translate(Coordinate &p, const int &xOffset, const int &yOffset)
 //    * Different args
 ostream& operator<<(ostream &os, const Coordinate &c)
 {
-    cout << "(" << c.x << ", " << c.y << ")" << endl;
+    os << "(" << c.x << ", " << c.y << ")" << endl;
     return os;
 }
 
