@@ -1,4 +1,4 @@
-// CSC 244000
+// CSC 24400
 // This program shows the two arguments to the main() function
 //    argc and argv.
 // This allows us to get input from the user via the command line
